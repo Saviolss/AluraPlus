@@ -191,5 +191,7 @@ body{
         display: flow-root;
         list-style-type: none;
     }
-
+    .lista__link{
+        justify-content: center;
+    }
 }
